@@ -248,7 +248,7 @@
       position: absolute;
       border: 60px solid #009688;
       top: 0;
-      border-bottom: 60px solid #ffffff00;
+      border-bottom: 60px solid transparent;
       border-left: 60px solid transparent;
       transform: rotate(-45deg);
       left: calc(50% - 60px);
